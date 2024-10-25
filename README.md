@@ -4,8 +4,6 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KeisukeShishido&theme=2077)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KeisukeShishido&theme=2077)
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=KeisukeShishido&theme=onedark)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=tokyonight)
 
 [![言語バッジ](https://img.shields.io/badge/-Ruby-CC342D.svg?logo=ruby&style=flat-square&logoColor=white)](https://www.ruby-lang.org/)
